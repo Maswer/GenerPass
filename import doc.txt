@@ -1,0 +1,2 @@
+customtkinter  # собственно сам GUI
+pillow  # работа с изображениям
